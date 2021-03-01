@@ -10,7 +10,7 @@ const Team = (props) => {
         <div className='team'>
             <h2>Team Member</h2>
             <h3>Total Member :  {team.length}</h3>
-            <h3>Total Member Salary:  ${totalSalary} </h3>
+            <h3>Total budget :  ${totalSalary} </h3>
             <h1>Your Team Member List</h1>
             <h4>
                 {
