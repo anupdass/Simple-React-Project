@@ -1,0 +1,36 @@
+.player-main{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.img img{
+    width: 200px;
+    border-radius: 50%;
+}
+.info{
+    margin-left: 20px;
+}
+.addteam{
+    background-color:cadetblue;
+    margin-bottom: 30px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 500px;
+    cursor: pointer;
+    color: white;
+    border-color: none;
+    transition: .5s;
+    text-decoration: none;
+}
+.addteam:hover{
+    background-color: tomato;
+}
+.icon{
+    margin-right: 10px;
+}

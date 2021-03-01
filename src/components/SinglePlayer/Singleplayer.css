@@ -1,0 +1,12 @@
+.team-player {
+    display: flex;
+}
+.team-img img{
+    width: 80px;
+    border-radius: 50%;
+}
+.player-name{
+    text-align: center;
+    margin-left: 20px;
+    color: brown;
+}
